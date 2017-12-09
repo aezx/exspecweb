@@ -4,7 +4,7 @@ email: admin@athelo.net
 description: >
   Documentation for the exspec language.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: //exspec.athelo.net # the base hostname & protocol for your site
+url: //decs.exspec.athelo.net # the base hostname & protocol for your site
 git_address: https://github.com/aezx/exspecweb
 git_edit_address: https://github.com/aezx/exspecweb/blob/gh-pages
 
